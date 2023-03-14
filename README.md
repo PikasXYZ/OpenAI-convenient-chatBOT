@@ -15,9 +15,9 @@ To use this project, you need a Google account for accessing to your Google Driv
 
 There is **NO** installation required for this project. (Precisely, installations will be processed in Colab notebook).
 
-**Just open the Colab notebook** and run the code from top to bottom! 
+**Just open the Colab notebook** and run the code from top to bottom by clicking play buttons on the left side! 
 
-*Don't forget to authorize the access of your Google Drive*
+*Don't forget to authorize the access of your Google Drive by ignoring the pop-up window*
 
 ### Usage
 
