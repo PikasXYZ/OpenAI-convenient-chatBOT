@@ -16,6 +16,7 @@ To use this project, you need a Google account for accessing to your Google Driv
 There is **NO** installation required for this project. (Precisely, installations will be processed in Colab notebook).
 
 **Just open the Colab notebook** and run the code from top to bottom by clicking play buttons on the left side! 
+Or you can press Ctrl+F9 to do so if you're not willing to find play buttons at all.
 
 *Don't forget to authorize the access of your Google Drive by ignoring the pop-up window*
 
@@ -27,4 +28,5 @@ There is **NO** installation required for this project. (Precisely, installation
 4. Follow the prompts to continue the conversation.
 5. When you're finished chatting, the chat record will be saved as a docx file in your Google Drive folder.
 
+### 
 :star: If this project is helpful to you or your projects, please help star this repo. Thanks! :hugs:
