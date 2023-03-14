@@ -37,20 +37,35 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
 <p align="center">
   <img src="pic/allow.jpg" width=500>
   <br>
-  <em>▲ Click "allow" of the pop-up window ▲</em>
+  <em>▲ Click "Connect to Google Drive" of the pop-up window ▲</em>
   <br>
   <img src="pic/select acount.jpg" width=500>
   <br>
-  <em>▲ Then select your account ▲</em>
+  <em>▲ Then choose your account ▲</em>
   <br>
   <img src="pic/buttom allow.jpg" width=500>
   <br>
-  <em>▲ Finally scroll the scrollbar to the bottom and click "allow"▲</em>
+  <em>▲ Finally scroll the scrollbar to the bottom and click "Allow"▲</em>
   <br>
 </p>
 
-2. Scroll the scrollbar to the bottom directly and wait for something being printed under the code.
+2. Scroll the scrollbar to the bottom directly and patiently wait for something being printed under the code.
 
+<p align="center">
+  <img src="pic/wait4this.jpg" width=500>
+  <br>
+  <em>▲ wait for this ▲</em>
+  <br>
+</p>
+
+3. After selecting the language you're going to use mainly, please decide whether to use prepared prompts.
+
+<p align="center">
+  <img src="pic/ask prompt prepared.jpg" width=500>
+  <br>
+  <em>▲ A null chat will begin if "N" is entered. ▲</em>
+  <br>
+</p>
 
 3. Select a keyword to start the chat.
 4. Follow the prompts to continue the conversation.
