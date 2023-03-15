@@ -121,3 +121,9 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
 :question: Something different from the above.
 
 :bulb: Send mail to pikasxyz@gmail.com and explain in detail.
+
+## Reference
+
+1. [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts.git)
+2. [Useful ChatGPT Prompts](https://www.explainthis.io/en/chatgpt)
+3. [ChatGPT 指令大全](https://www.explainthis.io/zh-hant/chatgpt)
