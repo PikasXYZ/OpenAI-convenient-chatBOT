@@ -1,6 +1,6 @@
 # OpenAI-convenient-chatBOT
 
-This project is a Colab notebook that integrates with the ChatGPT-3.5 API to act as a chatbot, which is not only convenient but also useful. The notebook includes built-in keywords in both English and Chinese that you can select to quickly start a chat. Chat records will be saved in "docx" format and stored in the your Google Drive folder, which makes it easier to read when not login in . If there're existing chat records in the folder, they'll be listed for you to choose and continue the conversation seamlessly. And what's more, you can even send your chat records toward friends to read or to continue your conversation seamlessly.
+This project is a Colab notebook that integrates with the ChatGPT-3.5 API to act as a chatBOT, which is not only convenient but also useful. The notebook includes built-in keywords in both English and Chinese that you can select to quickly start a chat. Chat records will be saved in "docx" format and stored in the your Google Drive folder, which makes it easier to read when not login in . If there're existing chat records in the folder, they'll be listed for you to choose and continue the conversation seamlessly. And what's more, you can even send your chat records toward friends to read or to continue your conversation seamlessly.
 <a href="https://colab.research.google.com/drive/1Q8BsKiMaxeR2mDXqHaCOYaUPqD7SFO6t?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 ### :star: If this project is helpful to you, please help star this repo. Thanks! :hugs:
 
@@ -95,7 +95,7 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
 <p align="center">
   <img src="pic/end chat.jpg" width=500>
   <br>
-  <em>▲ File name is named automatically by the chatbot ▲</em>
+  <em>▲ File name is named automatically by the chatBOT ▲</em>
   <br>
 </p>
 
