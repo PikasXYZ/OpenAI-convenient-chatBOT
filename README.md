@@ -68,7 +68,7 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
   <br>
 </p>
 
-3. If "Y" was entered at previos step, you'll see Quick Start List. Please enter the number of the prompt you like then to start the chat quickly & conneniently.
+3. If "Y" was entered at previos step, you'll see Quick Start List. Please enter the number of the prompt you like then to start the chat quickly & conveniently.
 
 <p align="center">
   <img src="pic/search.jpg" width=500>
