@@ -99,17 +99,25 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
   <br>
 </p>
 
-:bell: Once the folder 
-## Problems You May Encount
+:bell: Once that folder contains any chat record, list of recorded chats named "【History】" will appear firstly for selecting before the query of the language you're going to use.
 
-1. Open the Colab notebook.
-2. 
-　
- 　
-　
- 
- 
-　　
-　
-　
+<p align="center">
+  <img src="pic/ask history.jpg" width=500>
+  <br>
+  <em>▲ Enter the number of recorded chat to continue or "Q" to start a new one ▲</em>
+  <br>
+</p>
 
+## FAQ
+
+:question: Cannot find `ChatGPT_API_keys.txt` in connected Google Drive since it's not prepared.
+
+:bulb: Actually, API keys can be read from Google Sheet as well if there's a json file of Google Sheet API key named `GSheet.json` in any folder of your Google Drive. Meanwhile, you have to know the ways to modify my code and to use the Google Sheet API in the Google Sheet you stored API keys row by row, which is convenient to edit on the smartphone. However, I believe that that's not easy for most of you, so just create a txt file with your own API keys and upload it to your Google Drive, which may be the fastest way to solve this problem.
+
+:question: An error pops and says "Cannot find any usable API key, please try something news!"
+
+:bulb: It's because there's no usable API key in `ChatGPT_API_keys.txt`. Just add some new API keys of your other account into it and try again or wait for a while.
+
+:question: Something different from the above.
+
+:bulb: Send mail to pikasxyz@gmail.com and explain in detail.
