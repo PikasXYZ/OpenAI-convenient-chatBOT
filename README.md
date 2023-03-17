@@ -87,26 +87,15 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
 
  ㅤ
 <p align="center">
-  <img src="pic/wait4this.jpg" width=500>
-  <br>
-  <em>▲ wait for this ▲</em>
-  <br>
-</p>
-
- ㅤ
- 
-4. After selecting the language you're going to use mainly, please decide whether to use prepared prompts.
-
- ㅤ
-<p align="center">
   <img src="pic/ask prompt prepared.jpg" width=500>
   <br>
-  <em>▲ A null chat will begin if "N" is entered here ▲</em>
+  <em>▲ wait for this (A null chat will begin if "N" is entered here) ▲</em>
   <br>
 </p>
+
  ㅤ
  
-5. If "Y" was entered at previos step, you'll see Quick Start List. Please enter the number of the prompt you like then to start the chat quickly & conveniently.
+4. If "Y" was entered at previos step, you'll see Quick Start List. Please enter the number of the prompt you like then to start the chat quickly & conveniently.
 
 <p align="center">
   <img src="pic/search.jpg" width=500>
@@ -116,10 +105,12 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
 </p>
  ㅤ
  
-:bell: "N"/"P" for next/previous page or "Q" to quit
+ ㅤ:bell: "N"/"P" for next/previous page or "Q" to quit
 
  ㅤ
-6.Set parameters if neccesary.
+ 
+ ㅤ
+5.Set parameters if neccesary.
 
  ㅤ
 <p align="center">
@@ -130,15 +121,15 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
 </p>
  ㅤ
  
-7. Wait for the answer and continue chatting.
+6. Wait for the answer and continue chatting.
 
  ㅤ
  
-8. Enter "Q" merely if you don't wanna chat anymore and then the number of tokens of ChatGPT API you spent in this chat will show up.
+7. Enter "Q" merely if you don't wanna chat anymore and then the number of tokens of ChatGPT API you spent in this chat will show up.
 
  ㅤ
  
-9. When you're finished chatting, the chat record will be saved with your consent as a docx file in your Google Drive folder(`/content/drive/MyDrive/Colab Notebooks/ChatGPT_API`) , which will be built if not exsist.
+8. When you're finished chatting, the chat record will be saved with your consent as a docx file in your Google Drive folder(`/content/drive/MyDrive/Colab Notebooks/ChatGPT_API`) , which will be built if not exsist.
 
  ㅤ
 <p align="center">
@@ -161,15 +152,27 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
  ㅤ
  
 ## FAQ
-
+ ㅤ
+ 
 :question: Cannot find `ChatGPT_API_keys.txt` in connected Google Drive since it's not prepared.
 
-:bulb: Actually, API keys can be read from Google Sheet as well if there's a json file of Google Sheet API key named `GSheet.json` in any folder of your Google Drive. Meanwhile, you have to know the ways to modify my code and to use the Google Sheet API in the Google Sheet you stored API keys row by row, which is convenient to edit on the smartphone. However, I believe that that's not easy for most of you, so just create a txt file with your own API keys and upload it to your Google Drive, which may be the fastest way to solve this problem.
+:bulb: Actually, API keys can be read from Google Sheet as well if there's a Google Sheet API file named GSheet.json in your Google Drive and your ChatGPT API keys are stored in a Google Sheet which already connects to Google Sheet API row by row, which is convenient to edit on the smartphone. Provide the Google sheet id to do so. Or you can just create a txt file with your own API keys and upload it to your Google Drive, which may be the fastest way to solve this problem.
 
-:question: An error pops and says "Cannot find any usable API key, please try something news!"
+ ㅤ
+<p align="center">
+  <img src="pic/GS.jpg" width=500>
+  <br>
+  <em>▲ Key in your Google sheet id to import ChatGPT API keys from it ▲</em>
+  <br>
+</p>
+ ㅤ
+ 
+:question: An error pops and says "There's no usable API key, please try something new!"
 
-:bulb: It's because there's no usable API key in `ChatGPT_API_keys.txt`. Just add some new API keys of your other account into it and try again or wait for a while.
+:bulb: It's because the API key you copied is unusable or there's no usable API key in `ChatGPT_API_keys.txt`. Just copied a new API key or add some new API keys of your other account into it and try again or wait for a while.
 
+ ㅤ
+ 
 :question: Something different from the above.
 
 :bulb: Send mail to pikasxyz@gmail.com and explain in detail.
