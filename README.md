@@ -177,6 +177,8 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
 
 :bulb: Send mail to pikasxyz@gmail.com and explain in detail.
 
+ ㅤ
+ 
 ## Reference
 
 1. [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts.git)
