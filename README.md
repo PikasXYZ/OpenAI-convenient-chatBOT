@@ -2,12 +2,14 @@
 
 This project is a Colab notebook that integrates with the ChatGPT-3.5 API to act as a chatBOT, which is not only convenient but also useful. The notebook includes built-in keywords in both English and Chinese that you can select to quickly start a chat. Chat records will be saved in "docx" format and stored in the your Google Drive folder, which makes it easier to read when not login in . If there're existing chat records in the folder, they'll be listed for you to choose and continue the conversation seamlessly. And what's more, you can even send your chat records toward friends to read or to continue your conversation seamlessly.
 <a href="https://colab.research.google.com/drive/1Q8BsKiMaxeR2mDXqHaCOYaUPqD7SFO6t?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
+ ㅤ
 ### :star: If this project is helpful to you, please help star this repo. Thanks! :hugs:
-
+ ㅤ
 ## Preparison
+ ㅤ
+To use this project, please copy your ChatGPT API key first. Otherwise, you need a Google account for accessing to your Google Drive, along with one (or more) ChatGPT-3.5 API key stored row by row in a txt named `ChatGPT_API_keys.txt` in any folder of your Google Drive.
 
-To use this project, you need a Google account for accessing to your Google Drive, along with one (or more) ChatGPT-3.5 API key stored row by row in a txt named `ChatGPT_API_keys.txt` in any folder of your Google Drive.
-
+ ㅤ
 <p align="center">
   <img src="pic/ChatGPT_API_keys.jpg" width=500>
   <br>
@@ -15,8 +17,11 @@ To use this project, you need a Google account for accessing to your Google Driv
   <br>
 </p>
 
+ ㅤ
+ 
 :bell: You can obtain your ChatGPT-3.5 API keys form [HERE](https://platform.openai.com/account/api-keys)
 
+ ㅤ
 ## Installation
 
 There is **NO** installation required for this project. (Precisely, installations will be processed in Colab notebook).
@@ -24,17 +29,31 @@ There is **NO** installation required for this project. (Precisely, installation
 **Just open the Colab notebook** and run the code from top to bottom by clicking play buttons on the left side! 
 Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or click them one by one.
 
+ ㅤ
 <p align="center">
   <img src="pic/play button.jpg" width=500>
   <br>
-  <em>▲ play button ▲</em>
+  <em>▲ Play buttons on the left side▲</em>
   <br>
 </p>
-
+ ㅤ
+ 
 ## How to Use after Running the Code?
 
-1. Authorize the notebook to access your Google Drive while the pop-up window appears.
+1. Change `language`  to "CN" if you need a Chinese UI
 
+ ㅤ
+<p align="center">
+  <img src="pic/language.jpg" width=500>
+  <br>
+  <em>▲ You can change language here ▲</em>
+  <br>
+</p>
+ ㅤ
+ 
+2. Authorize the notebook to access your Google Drive while the pop-up window appears.
+
+ ㅤ
 <p align="center">
   <img src="pic/allow.jpg" width=500>
   <br>
@@ -50,8 +69,23 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
   <br>
 </p>
 
-2. Scroll the scrollbar to the bottom directly and patiently wait for something being printed under the code.
+ ㅤ
+ 
+ ㅤ:bell: You can skip this step if you have a ChatGPT API key that you sure it works.
 
+ ㅤ
+<p align="center">
+  <img src="pic/api key.jpg" width=500>
+  <br>
+  <em>▲ Paste your ChatGPT API key to skip this step ▲</em>
+  <br>
+</p>
+
+ ㅤ
+ 
+3. Scroll the scrollbar to the bottom directly and patiently wait for something being printed under the code.
+
+ ㅤ
 <p align="center">
   <img src="pic/wait4this.jpg" width=500>
   <br>
@@ -59,16 +93,20 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
   <br>
 </p>
 
-3. After selecting the language you're going to use mainly, please decide whether to use prepared prompts.
+ ㅤ
+ 
+4. After selecting the language you're going to use mainly, please decide whether to use prepared prompts.
 
+ ㅤ
 <p align="center">
   <img src="pic/ask prompt prepared.jpg" width=500>
   <br>
   <em>▲ A null chat will begin if "N" is entered here ▲</em>
   <br>
 </p>
-
-3. If "Y" was entered at previos step, you'll see Quick Start List. Please enter the number of the prompt you like then to start the chat quickly & conveniently.
+ ㅤ
+ 
+5. If "Y" was entered at previos step, you'll see Quick Start List. Please enter the number of the prompt you like then to start the chat quickly & conveniently.
 
 <p align="center">
   <img src="pic/search.jpg" width=500>
@@ -76,38 +114,52 @@ Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or 
   <em>▲ if neither a number nor "N"/"P"/"Q" is entered, Quick Start List will turn into Search Results of what you enter ▲</em>
   <br>
 </p>
-
+ ㅤ
+ 
 :bell: "N"/"P" for next/previous page or "Q" to quit
 
-4.Set parameters if neccesary.
+ ㅤ
+6.Set parameters if neccesary.
 
+ ㅤ
 <p align="center">
   <img src="pic/set para.jpg" width=500>
   <br>
   <em>▲ Some of prepared prompt contains parameter supposed to be replace ▲</em>
   <br>
 </p>
+ ㅤ
+ 
+7. Wait for the answer and continue chatting.
 
-5. Wait for the answer and continue chatting.
-6. Enter "Q" merely if you don't wanna chat anymore and then the number of tokens of ChatGPT API you spent in this chat will show up.
-7. When you're finished chatting, the chat record will be saved with your consent as a docx file in your Google Drive folder(`/content/drive/MyDrive/Colab Notebooks/ChatGPT_API`) , which will be built if not exsist.
+ ㅤ
+ 
+8. Enter "Q" merely if you don't wanna chat anymore and then the number of tokens of ChatGPT API you spent in this chat will show up.
 
+ ㅤ
+ 
+9. When you're finished chatting, the chat record will be saved with your consent as a docx file in your Google Drive folder(`/content/drive/MyDrive/Colab Notebooks/ChatGPT_API`) , which will be built if not exsist.
+
+ ㅤ
 <p align="center">
   <img src="pic/end chat.jpg" width=500>
   <br>
   <em>▲ File name is named automatically by the chatBOT ▲</em>
   <br>
 </p>
-
+ ㅤ
+ 
 :bell: Once that folder contains any chat record, list of recorded chats named "【History】" will appear firstly for selecting before the query of the language you're going to use.
 
+ ㅤ
 <p align="center">
   <img src="pic/ask history.jpg" width=500>
   <br>
   <em>▲ Enter the number of recorded chat to continue or "Q" to start a new one ▲</em>
   <br>
 </p>
-
+ ㅤ
+ 
 ## FAQ
 
 :question: Cannot find `ChatGPT_API_keys.txt` in connected Google Drive since it's not prepared.
