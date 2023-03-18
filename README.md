@@ -28,7 +28,7 @@ To use this project, please copy your ChatGPT API key first. Otherwise, you need
 There is **NO** installation required for this project. (Precisely, installations will be processed in Colab notebook).
 
 **Just open the Colab notebook** and run the code from top to bottom by clicking play buttons on the left side! 
-Or you can press Ctrl+F9 to do so if you're not willing to find play buttons or click them one by one.
+Or you can press Ctrl+F9 to do so after setting all parameters if you're not willing to find play buttons or click them one by one.
 
  ㅤ
 <p align="center">
