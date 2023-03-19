@@ -91,7 +91,7 @@ There is **NO** installation required for this project. (Precisely, installation
 <p align="center">
   <img src="pic/ask prompt prepared.jpg" width=500>
   <br>
-  <em>▲ wait for this (A null chat will begin if "N" is entered here) ▲</em>
+  <em>▲ Wait for this (A null chat will begin if "N" is entered here) ▲</em>
   <br>
 </p>
 
@@ -102,7 +102,7 @@ There is **NO** installation required for this project. (Precisely, installation
 <p align="center">
   <img src="pic/search.jpg" width=500>
   <br>
-  <em>▲ if neither a number nor "N"/"P"/"Q" is entered, Quick Start List will turn into Search Results of what you enter ▲</em>
+  <em>▲ If neither a number nor "N"/"P"/"Q" is entered, Quick Start List will turn into Search Results of what you enter ▲</em>
   <br>
 </p>
  ㅤ
