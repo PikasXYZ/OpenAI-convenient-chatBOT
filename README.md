@@ -97,7 +97,7 @@ There is **NO** installation required for this project. (Precisely, installation
 
  ㅤ
  
-4. If "Y" was entered at previos step, you'll see Quick Start List. Please enter the number of the prompt you like then to start the chat quickly & conveniently.
+4. If "Y" was entered at previous step, you'll see Quick Start List. Please enter the number of the prompt you like then to start the chat quickly & conveniently.
 
 <p align="center">
   <img src="pic/search.jpg" width=500>
@@ -142,7 +142,7 @@ There is **NO** installation required for this project. (Precisely, installation
 </p>
  ㅤ
  
-:bell: Once that folder contains any chat record, list of recorded chats named "【History】" will appear firstly for selecting before the query of the language you're going to use.
+:bell: Once that folder contains any chat record, list of recorded chats named "【History】" will appear firstly for selecting before the query of the intension to use preapred prompts.
 
  ㅤ
 <p align="center">
