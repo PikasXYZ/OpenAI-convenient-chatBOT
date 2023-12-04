@@ -4,7 +4,7 @@ This project is a Colab notebook that integrates with the ChatGPT-3.5 API to act
 
 <a href="https://colab.research.google.com/drive/1Q8BsKiMaxeR2mDXqHaCOYaUPqD7SFO6t?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
  ㅤ
-### :star: If this project is helpful to you, please help star this repo. Thanks! :hugs:
+### ⭐ If this project is helpful to you, please help star this repo. Thanks! :hugs:
  ㅤ
 ## Preparation
 
